@@ -29,4 +29,4 @@ jobs:
       with:
         name: web-build
         path: public
-        retention-days: 5
+        retention-days: 90
